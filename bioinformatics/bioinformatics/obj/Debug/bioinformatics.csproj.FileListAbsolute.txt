@@ -1,0 +1,10 @@
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\bin\Debug\bioinformatics.exe.config
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\bin\Debug\bioinformatics.exe
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\bin\Debug\bioinformatics.pdb
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\obj\Debug\bioinformatics.csprojAssemblyReference.cache
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\obj\Debug\bioinformatics.Form1.resources
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\obj\Debug\bioinformatics.Properties.Resources.resources
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\obj\Debug\bioinformatics.csproj.GenerateResource.cache
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\obj\Debug\bioinformatics.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\obj\Debug\bioinformatics.exe
+C:\Users\Steven\source\repos\bioinformatics\bioinformatics\obj\Debug\bioinformatics.pdb

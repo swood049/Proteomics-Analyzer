@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bioinformatics", "bioinformatics\bioinformatics.csproj", "{F4406778-4317-45ED-97A2-8725D135A764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4406778-4317-45ED-97A2-8725D135A764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4406778-4317-45ED-97A2-8725D135A764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4406778-4317-45ED-97A2-8725D135A764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4406778-4317-45ED-97A2-8725D135A764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5BD9C3-9761-4E66-9527-48C86AA9550E}
+	EndGlobalSection
+EndGlobal
